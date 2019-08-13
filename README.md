@@ -11,3 +11,11 @@
 - conn to mysql 
 
 # Week 3 Data visulisation 
+
+# Additional lab - Features & Trees 
+- Read Titanic data 
+- Exploratory data analysis e.g., What percent survived? what percent of each gender survived? 
+- ggplot - whehter Pclass affect the survival rate?
+- Build the decision tree & plot the tree 
+- Training/Testing splitting for evaluation 
+- Further learning for randomforest; corssvalidation
